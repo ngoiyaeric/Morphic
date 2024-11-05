@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import { Button } from './ui/button'
 import { Input } from './ui/input'
-import { useActions, useUIState } from 'ai/rsc'
+import { useActions, useUIState } from 'ai/ui'
 import type { AI } from '@/app/actions'
 import { UserMessage } from './user-message'
 import { ArrowRight } from 'lucide-react'

@@ -1,7 +1,7 @@
 'use client'
 
 import { Section } from './section'
-import { StreamableValue, useStreamableValue } from 'ai/rsc'
+import { StreamableValue, useStreamableValue } from 'ai/ui'
 import { BotMessage } from './message'
 import { useEffect, useState } from 'react'
 import { DefaultSkeleton } from './default-skeleton'

@@ -5,7 +5,7 @@ import { Card } from './ui/card'
 import { Button } from './ui/button'
 import { RefreshCcw } from 'lucide-react'
 import { Label } from './ui/label'
-import { useUIState, useActions, useAIState } from 'ai/rsc'
+import { useUIState, useActions, useAIState } from 'ai/ui'
 import { AI } from '@/app/actions'
 import { AIMessage } from '@/lib/types'
 

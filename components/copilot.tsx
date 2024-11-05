@@ -12,7 +12,7 @@ import {
   useActions,
   useStreamableValue,
   useUIState
-} from 'ai/rsc'
+} from 'ai/ui'
 import type { AI } from '@/app/actions'
 import { useAppState } from '@/lib/utils/app-state'
 import { useLocalStorage } from '@/lib/hooks/use-local-storage'

@@ -3,7 +3,7 @@
 import { DefaultSkeleton } from './default-skeleton'
 import { Section } from './section'
 import type { SerperSearchResults } from '@/lib/types'
-import { StreamableValue, useStreamableValue } from 'ai/rsc'
+import { StreamableValue, useStreamableValue } from 'ai/ui'
 import { VideoSearchResults } from './video-search-results'
 import { ToolBadge } from './tool-badge'
 

@@ -8,7 +8,7 @@ import {
 } from '@radix-ui/react-collapsible'
 import { Button } from './ui/button'
 import { ChevronDown } from 'lucide-react'
-import { StreamableValue, useStreamableValue } from 'ai/rsc'
+import { StreamableValue, useStreamableValue } from 'ai/ui'
 import { cn } from '@/lib/utils'
 import { Separator } from './ui/separator'
 
